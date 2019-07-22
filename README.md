@@ -1,4 +1,4 @@
-# CrowdAi-Leaf-Disease-Detection-Fastai
+# Leaf-Disease-Detection
 Achieved 99% Accuracy on test set.
 
 Deep Learning can be extend to agriculture sector. There are lot of opportunities like detecting the leaf disease,
